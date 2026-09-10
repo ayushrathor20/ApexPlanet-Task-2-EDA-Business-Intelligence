@@ -104,6 +104,6 @@ ApexPlanet-Task-2-EDA-Business-Intelligence/
 │   └── EDA_Charts.zip
 │
 ├── dashboard/
-│   └── ApexPlanet_Task2_Colorful_Sales_Dashboard.xlsx
+│   └── ApexPlanet_Task2_Sales_Dashboard.xlsx
 │
 └── README.md
